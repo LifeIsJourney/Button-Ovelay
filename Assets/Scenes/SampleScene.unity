@@ -476,7 +476,7 @@ RectTransform:
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: -33, y: -92.70001}
-  m_SizeDelta: {x: 500, y: 200}
+  m_SizeDelta: {x: 500, y: 270.63}
   m_Pivot: {x: 1, y: 1}
 --- !u!1 &449092278
 GameObject:
@@ -538,8 +538,8 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_HighlightedColor: {r: 0.794, g: 0.794, b: 0.794, a: 1}
+    m_PressedColor: {r: 0.56, g: 0.56, b: 0.56, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
@@ -759,7 +759,7 @@ GameObject:
   - component: {fileID: 736184962}
   - component: {fileID: 736184964}
   m_Layer: 5
-  m_Name: OverlayBtnImage2
+  m_Name: Overlay Btn Image2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1407,7 +1407,7 @@ GameObject:
   - component: {fileID: 2093525189}
   - component: {fileID: 2093525191}
   m_Layer: 5
-  m_Name: OverlayBtnImage1
+  m_Name: Overlay Btn Image 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
